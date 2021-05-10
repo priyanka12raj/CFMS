@@ -1,0 +1,55 @@
+.header {
+	text-align: center;
+	font-size: 40px;
+	background-color: purple;
+	color:white;
+}
+.bodyText {
+	font-family: "Times New Roman", serif;
+}
+.link {
+	font-weight: bold;
+	font-size: 18px;
+}
+.linkTable { 
+  width: 100%;
+}
+.red {
+	 background-color: red;
+}
+.yellow {
+	 background-color: yellow;
+}
+.blue {
+	 background-color: blue;
+}
+.green {
+	 background-color: green;
+}
+.cyan {
+	 background-color: cyan;
+}
+.purple {
+	 background-color: purple;
+}
+.nav-panel {
+	height: 260px;
+	padding-top: 15px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.nav-button {
+	width: 130px;
+	height: 50px;
+	margin: 5px !important;
+}
+.center-block {
+	text-align: center;
+}
+.tab-panel, .stack-panel, .split-panel {
+	margin-bottom: 25px;
+	margin-right: 20px;
+}
+.split-panel {
+	border: 1px solid #CCC;
+}
